@@ -3,7 +3,7 @@ description: "A jekyll theme inspired by linux consoles for hackers, developers 
 
 header_pages:
   - index.md
-  - peter.md
+  - projects.md
   - about.md
   - contact.md
 

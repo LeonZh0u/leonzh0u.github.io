@@ -4,7 +4,7 @@ layout: page
 permalink: /contact
 ---
 
-# Get in touch?
+# Let's Connect!
 
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
@@ -13,4 +13,4 @@ permalink: /contact
   <input type="submit" value="[ submit ]">
 </form>
 
-<br /><br />(This is a demo site, the form doesn't work - If you want to implement a form on your site, you need an external service)
+
