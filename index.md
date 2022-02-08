@@ -6,7 +6,7 @@ permalink: /index
 
 # /home/LeonZhou>
 Welcome to my personal website. My primary interests are: NLP, Competitive Programming, and full-stack dev. I am currently looking for a summer internship in SWE/ML:)
-![My image Name](/assets/images/profile.png){: width="250" }
+![My image Name](/assets/images/profile.jpg){: width="250" }
 
 
 
